@@ -3,3 +3,5 @@ Outline
 ==========
 
 Welcome to ChatApp 
+
+Introduction of Finance
