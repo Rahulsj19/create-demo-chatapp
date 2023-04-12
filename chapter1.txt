@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =========
 Chapter 1
 =========
@@ -6,10 +5,8 @@ Chapter 1
 Beginning of investment
 
 Some important lesson to learn
-=======
 ========
 chapter1
 ========
 
 Begin with the first chapter about Mindset.
->>>>>>> publishers
